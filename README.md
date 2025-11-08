@@ -8,21 +8,19 @@ Designed for international families and parents introducing a second language to
 
 🗣️ Buki Reads Aloud — Built-in voice assistant that narrates books using natural text-to-speech.
 
-👨‍👩‍👧 Family Profiles — Multiple readers per account with saved progress and favorites.
-
-🔄 Live Translation — Instantly switch between languages while reading.
+👨‍👩‍👧 Family Profiles — Add to favourites and saved progress.
 
 ---
 
 ## screen shots
 
-<div align="center"> <img src="../readme-images/buki.png" alt="Home Page" width="45%" style="margin:10px;"> <img src="../readme-images/buki-1.png" alt="Library Page" width="45%" style="margin:10px;"> </div> <div align="center"> <img src="../readme-images/buki-2.png" alt="Reading View" width="45%" style="margin:10px;"> <img src="../readme-images/buki-3.png" alt="Language Selector" width="45%" style="margin:10px;"> </div>
+<div align="center"> <img src="readme-images/buki.png" alt="Home Page" width="45%" style="margin:10px;"> <img src="readme-images/buki-1.png" alt="Library Page" width="45%" style="margin:10px;"> </div> <div align="center"> <img src="readme-images/buki-2.png" alt="Reading View" width="45%" style="margin:10px;"> <img src="readme-images/buki-3.png" alt="Language Selector" width="45%" style="margin:10px;"> </div>
 
 ---
 
 ## 🧩 Tech Stack
 
-<div align="center"> <!-- Ruby --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="60" height="60" /> &nbsp;&nbsp; <!-- Rails --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="60" height="60" /> &nbsp;&nbsp; <!-- JavaScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" /> &nbsp;&nbsp; <!-- HTML5 --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" /> &nbsp;&nbsp; <!-- CSS3 --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" /> &nbsp;&nbsp; <!-- PostgreSQL --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" /> &nbsp;&nbsp; <!-- Heroku --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="60" height="60" /> &nbsp;&nbsp; <!-- AI --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="AI" width="60" height="60" title="AI / Machine Learning APIs" /></div>
+<div align="center"> <!-- Ruby --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="50" height="50" /> &nbsp;&nbsp; <!-- Rails --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="50" height="50" /> &nbsp;&nbsp; <!-- JavaScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /> &nbsp;&nbsp; <!-- HTML5 --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" /> &nbsp;&nbsp; <!-- CSS3 --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" /> &nbsp;&nbsp; <!-- PostgreSQL --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" /> &nbsp;&nbsp; <!-- Heroku --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="50" height="50" /> &nbsp;&nbsp; <!-- AI --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="AI" width="50" height="50" title="AI / Machine Learning APIs" /></div>
 
 ## 🚀 Getting Started
 
@@ -42,6 +40,7 @@ rails db:create
 rails db:migrate
 rails db:seed
 
+dotenv
 # Environment Variables
 # in your .env file
 DEEPL_API_KEY=your_deepl_api_key
