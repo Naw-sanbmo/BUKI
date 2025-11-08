@@ -40,17 +40,16 @@ rails db:create
 rails db:migrate
 rails db:seed
 ```
-dotenv
-# Environment Variables
-# in your .env file
-DEEPL_API_KEY=your_deepl_api_key
-CLOUDINARY_URL=your_cloudinary_key
-ELEVENLABS_API_KEY=your_elevenlabs_api_key
-ELEVENLABS=your_elevenlabs_key
-VOICE_VOX_APIKEY=your_voice_vox_api_key
+## dotenv
+### Environment Variables(in your .env file)
+- DEEPL_API_KEY=your_deepl_api_key
+- CLOUDINARY_URL=your_cloudinary_key
+- ELEVENLABS_API_KEY=your_elevenlabs_api_key
+- ELEVENLABS=your_elevenlabs_key
+- VOICE_VOX_APIKEY=your_voice_vox_api_key
 
 
-## 👥 Check out our Team
+## 👥 Check out our Team(Contributors)
  <div style="text-align: left;">
 
   <a href="https://github.com/NathanielDSmith">
