@@ -39,7 +39,7 @@ rails server
 rails db:create
 rails db:migrate
 rails db:seed
-
+```
 dotenv
 # Environment Variables
 # in your .env file
@@ -48,4 +48,21 @@ CLOUDINARY_URL=your_cloudinary_key
 ELEVENLABS_API_KEY=your_elevenlabs_api_key
 ELEVENLABS=your_elevenlabs_key
 VOICE_VOX_APIKEY=your_voice_vox_api_key
-```
+
+
+## 👥 Check out our Team
+ <div style="text-align: left;">
+
+  <a href="https://github.com/NathanielDSmith">
+    <img src="https://github.com/NathanielDSmith.png?size=50" alt="NathanielDSmith" width="50" height="50">
+  </a>
+  <a href="https://github.com/Jairohur">
+    <img src="https://github.com/Jairohur.png?size=50" alt="Jairohur" width="50" height="50">
+  </a>
+  <a href="https://github.com/kahomagical">
+    <img src="https://github.com/kahomagical.png?size=50" alt="kahomagical" width="50" height="50">
+  </a>
+  <a href="https://github.com/Naw-sanbmo">
+    <img src="https://github.com/Naw-sanbmo.png?size=50" alt="Naw-sanbmo" width="50" height="50">
+  </a>
+</div>
